@@ -1,0 +1,284 @@
+table,cell,independent,basis
+T1,bfrs|n_train,20978,paper
+T1,bfrs|n_dev,4495,paper
+T1,bfrs|n_test,4496,paper
+T1,bfrs|median_doc_ws_toks,28.0,paper
+T1,ccc|n_train,4710,paper
+T1,ccc|n_dev,1009,paper
+T1,ccc|n_test,1010,paper
+T1,ccc|median_doc_ws_toks,437.0,paper
+T1,manifestos|n_train,8081,paper
+T1,manifestos|n_dev,1732,paper
+T1,manifestos|n_test,1732,paper
+T1,manifestos|median_doc_ws_toks,16,paper
+T1,bfrs|n_classes,12,paper
+T1,bfrs|def_median_ws_toks,19.5,paper
+T1,bfrs|codebook_ws_toks,1614,code
+T1,bfrs|codebook_llama_toks,2083,code
+T1alt,bfrs|raw_codebook_file_llama_toks,2590,paper
+T1,ccc|n_classes,8,paper
+T1,ccc|def_median_ws_toks,28.5,paper
+T1,ccc|codebook_ws_toks,608,code
+T1,ccc|codebook_llama_toks,721,code
+T1alt,ccc|raw_codebook_file_llama_toks,1042,paper
+T1,manifestos|n_classes,142,paper
+T1,manifestos|def_median_ws_toks,14.0,paper
+T1,manifestos|codebook_ws_toks,3910,code
+T1,manifestos|codebook_llama_toks,5145,code
+T1alt,manifestos|raw_codebook_file_llama_toks,9019,paper
+T3alt,manifestos|new_format|llama|f1_na_match,0.2251573048021622,paper
+T3,manifestos|new_format|llama|f1,0.1876990768014539,code
+T3,manifestos|new_format|llama|ci_lo,0.1685053589088011,code
+T3,manifestos|new_format|llama|ci_hi,0.20910934678575505,code
+FULL,manifestos|new_format|llama|f1_vs_stored,8.326672684688674e-17,paper
+T3,manifestos|new_format|llama|n,1732,paper
+T3alt,manifestos|original|llama|f1_na_match,0.27797246463985614,paper
+T3,manifestos|original|llama|f1,0.20633864971961335,code
+T3,manifestos|original|llama|ci_lo,0.18519364119602122,code
+T3,manifestos|original|llama|ci_hi,0.22564952987767523,code
+FULL,manifestos|original|llama|f1_vs_stored,5.551115123125783e-17,paper
+T3,manifestos|original|llama|n,1732,paper
+T3alt,ccc|new_format|llama|f1_na_match,0.6085326520631811,paper
+T3,ccc|new_format|llama|f1,0.6085326520631811,paper
+T3,ccc|new_format|llama|ci_lo,0.5791443407347484,paper
+T3,ccc|new_format|llama|ci_hi,0.6380962492336866,paper
+FULL,ccc|new_format|llama|f1_vs_stored,0.0,paper
+T3,ccc|new_format|llama|n,1009,paper
+T3alt,ccc|original|llama|f1_na_match,0.4836406452855152,paper
+T3,ccc|original|llama|f1,0.4836406452855152,paper
+T3,ccc|original|llama|ci_lo,0.4522719020496988,paper
+T3,ccc|original|llama|ci_hi,0.517086642977658,paper
+FULL,ccc|original|llama|f1_vs_stored,0.0,paper
+T3,ccc|original|llama|n,1009,paper
+T3alt,bfrs|new_format|llama|f1_na_match,0.5661371362916546,paper
+T3,bfrs|new_format|llama|f1,0.5661371362916546,paper
+T3,bfrs|new_format|llama|ci_lo,0.5506504784591985,paper
+T3,bfrs|new_format|llama|ci_hi,0.5808597287389535,paper
+FULL,bfrs|new_format|llama|f1_vs_stored,-1.1102230246251565e-16,paper
+T3,bfrs|new_format|llama|n,4495,paper
+T3alt,bfrs|original|llama|f1_na_match,0.5474609704651395,paper
+T3,bfrs|original|llama|f1,0.5474609704651395,paper
+T3,bfrs|original|llama|ci_lo,0.532372705070693,paper
+T3,bfrs|original|llama|ci_hi,0.5611944173641549,paper
+FULL,bfrs|original|llama|f1_vs_stored,1.1102230246251565e-16,paper
+T3,bfrs|original|llama|n,4495,paper
+T3alt,manifestos|new_format|mistral|f1_na_match,0.22372238060397545,paper
+T3,manifestos|new_format|mistral|f1,0.14875556785279792,code
+T3,manifestos|new_format|mistral|ci_lo,0.13226935447626534,code
+T3,manifestos|new_format|mistral|ci_hi,0.1650871942570845,code
+FULL,manifestos|new_format|mistral|f1_vs_stored,2.7755575615628914e-17,paper
+T3,manifestos|new_format|mistral|n,1732,paper
+T3alt,manifestos|original|mistral|f1_na_match,0.19734415924739862,paper
+T3,manifestos|original|mistral|f1,0.14108381145615773,code
+T3,manifestos|original|mistral|ci_lo,0.12283305647730101,code
+T3,manifestos|original|mistral|ci_hi,0.15794188041780824,code
+FULL,manifestos|original|mistral|f1_vs_stored,2.7755575615628914e-17,paper
+T3,manifestos|original|mistral|n,1732,paper
+T3alt,ccc|new_format|mistral|f1_na_match,0.6485372791255646,paper
+T3,ccc|new_format|mistral|f1,0.6485372791255646,paper
+T3,ccc|new_format|mistral|ci_lo,0.6172281013717008,paper
+T3,ccc|new_format|mistral|ci_hi,0.6797626535529669,paper
+FULL,ccc|new_format|mistral|f1_vs_stored,0.0,paper
+T3,ccc|new_format|mistral|n,1009,paper
+T3alt,ccc|original|mistral|f1_na_match,0.5111803466416628,paper
+T3,ccc|original|mistral|f1,0.5111803466416628,paper
+T3,ccc|original|mistral|ci_lo,0.4801612057017974,paper
+T3,ccc|original|mistral|ci_hi,0.5410689790376061,paper
+FULL,ccc|original|mistral|f1_vs_stored,0.0,paper
+T3,ccc|original|mistral|n,1009,paper
+T3alt,bfrs|new_format|mistral|f1_na_match,0.5332338644960428,paper
+T3,bfrs|new_format|mistral|f1,0.5332338644960428,paper
+T3,bfrs|new_format|mistral|ci_lo,0.5181447870778111,paper
+T3,bfrs|new_format|mistral|ci_hi,0.5473507398892673,paper
+FULL,bfrs|new_format|mistral|f1_vs_stored,0.0,paper
+T3,bfrs|new_format|mistral|n,4495,paper
+T3alt,bfrs|original|mistral|f1_na_match,0.4358385986931203,paper
+T3,bfrs|original|mistral|f1,0.4358385986931203,paper
+T3,bfrs|original|mistral|ci_lo,0.4208839613244733,paper
+T3,bfrs|original|mistral|ci_hi,0.45032193804403564,paper
+FULL,bfrs|original|mistral|f1_vs_stored,0.0,paper
+T3,bfrs|original|mistral|n,4495,paper
+T4,excluded=none|f1,0.5332338644960428,paper
+T4,excluded=Output Reminder|f1,0.42261088577652717,paper
+FULL,T4 excluded=Output Reminder|f1_vs_stored,5.551115123125783e-17,paper
+T4,excluded=Negative Example+Positive Example|f1,0.45811033604921614,paper
+FULL,T4 excluded=Negative Example+Positive Example|f1_vs_stored,5.551115123125783e-17,paper
+T4,excluded=Clarification+Negative Clarification+Negative Example+Positive Example|f1,0.433522164264171,paper
+FULL,T4 excluded=Clarification+Negative Clarification+Negative Example+Positive Example|f1_vs_stored,0.0,paper
+T4,excluded=Clarification+Negative Clarification+Negative Example+Output Reminder+Positive Example|f1,0.20248036999110328,paper
+FULL,T4 excluded=Clarification+Negative Clarification+Negative Example+Output Reminder+Positive Example|f1_vs_stored,8.326672684688674e-17,paper
+T4,excluded=Clarification+Definition+Negative Clarification+Negative Example+Output Reminder+Positive Example|f1,0.2947272444323622,paper
+FULL,T4 excluded=Clarification+Definition+Negative Clarification+Negative Example+Output Reminder+Positive Example|f1_vs_stored,-1.1102230246251565e-16,paper
+T5,bfrs|n,24,paper
+T5,bfrs|n_unique_classes,12,paper
+T5,bfrs|n_missing_hand_label,0,paper
+T5,bfrs|0-LLM Correct,0.375,code
+T5,bfrs|1-Gold standard wrong,0.041666666666666664,code
+T5,bfrs|2-Doc lacking context,0.041666666666666664,code
+T5,bfrs|3-LLM mistake (word knowledge/semantics/reasoning),0.5,code
+T5,bfrs|4-Non-compliance,0.0,code
+T5,bfrs|5-Other,0.041666666666666664,code
+T5,ccc|n,50,paper
+T5,ccc|n_unique_classes,5,paper
+T5,ccc|n_missing_hand_label,1,paper
+T5,ccc|0-LLM Correct,0.48,code
+T5,ccc|1-Gold standard wrong,0.1,code
+T5,ccc|2-Doc lacking context,0.02,code
+T5,ccc|3-LLM mistake (word knowledge/semantics/reasoning),0.26,code
+T5,ccc|4-Non-compliance,0.02,code
+T5,ccc|5-Other,0.1,code
+T5,manifestos|n,62,paper
+T5,manifestos|n_unique_classes,50,paper
+T5,manifestos|n_missing_hand_label,1,paper
+T5,manifestos|0-LLM Correct,0.11290322580645161,code
+T5,manifestos|1-Gold standard wrong,0.08064516129032258,code
+T5,manifestos|2-Doc lacking context,0.03225806451612903,code
+T5,manifestos|3-LLM mistake (word knowledge/semantics/reasoning),0.3064516129032258,code
+T5,manifestos|4-Non-compliance,0.45161290322580644,code
+T5,manifestos|5-Other,0.0,code
+T6,bfrs|llama|f1,0.8108714531775719,paper
+T6,bfrs|llama|ci_lo,0.7989949927586649,paper
+T6,bfrs|llama|ci_hi,0.8226308557346965,paper
+T6,bfrs|llama|delta_zero_shot,0.2447343168859173,paper
+FULL,T6 bfrs|llama|f1_vs_stored,0.0,paper
+T6,ccc|llama|f1,0.6772070608364855,paper
+T6,ccc|llama|ci_lo,0.6418169261074959,paper
+T6,ccc|llama|ci_hi,0.7101266978643387,paper
+T6,ccc|llama|delta_zero_shot,0.06867440877330444,paper
+FULL,T6 ccc|llama|f1_vs_stored,0.0,paper
+T6,bfrs|mistral|f1,0.8208338038114764,paper
+T6,bfrs|mistral|ci_lo,0.8083153315912551,paper
+T6,bfrs|mistral|ci_hi,0.8326777069498859,paper
+T6,bfrs|mistral|delta_zero_shot,0.2875999393154336,paper
+FULL,T6 bfrs|mistral|f1_vs_stored,0.0,paper
+T6,ccc|mistral|f1,0.7236157169595909,paper
+T6,ccc|mistral|ci_lo,0.6914787088735573,paper
+T6,ccc|mistral|ci_hi,0.7517185282504028,paper
+T6,ccc|mistral|delta_zero_shot,0.07507843783402635,paper
+FULL,T6 ccc|mistral|f1_vs_stored,0.0,paper
+T6,manifestos|mistral|f1,0.3767715498569518,code
+T6,manifestos|mistral|ci_lo,0.35128912225114084,code
+T6,manifestos|mistral|ci_hi,0.4013565274349124,code
+T6,manifestos|mistral|delta_zero_shot,0.2280159820041539,code
+FULL,T6 manifestos|mistral|f1_vs_stored,-5.551115123125783e-17,paper
+T6alt,manifestos|mistral|f1_na_match,0.6155548796910899,paper
+T6,bfrs|majority_class_from_train,ASSASSINATION,paper
+T6,bfrs|majority_baseline_f1,0.15615346825311238,code
+T6alt,bfrs|majority_baseline_f1_dev_same_rows,0.1543182010483341,paper
+T6alt,bfrs|most_frequent_train_value_incl_NA,ASSASSINATION,paper
+T6,ccc|majority_class_from_train,PROTEST,paper
+T6,ccc|majority_baseline_f1,0.5102429161835103,code
+T6alt,ccc|majority_baseline_f1_dev_same_rows,0.5035512713683005,paper
+T6alt,ccc|most_frequent_train_value_incl_NA,PROTEST,paper
+T6,manifestos|majority_class_from_train,WELFARE_POSITIVE,paper
+T6,manifestos|majority_baseline_f1,0.02670922304926186,code
+T6alt,manifestos|majority_baseline_f1_dev_same_rows,0.011433601535030242,paper
+T6alt,manifestos|most_frequent_train_value_incl_NA,NA,paper
+F34,Llama-3.1-8B-Instruct|Definition recovery,1.0,paper
+F34,Llama-3.1-8B-Instruct|Classify positive in-context examples,1.0,paper
+F34,Llama-3.1-8B-Instruct|Classify negative in-context examples,0.8333333333333334,paper
+F34,Llama-3.1-8B-Instruct|Inter-coder agreement (Fleiss' Kappa) for permutation,0.6099096578569654,paper
+F34,Llama-3.1-8B-Instruct|Percent change in predictions (reverse),0.4077864293659621,paper
+F34,Llama-3.1-8B-Instruct|Percent change in predictions (shuffle),0.2102335928809788,paper
+F34,Llama-3.1-8B-Instruct|Legal predictions percent,1.0,paper
+F34,Llama-3.1-8B-Instruct|Exclusion minimal pairs (all correct),0.1199442119944212,paper
+F34,"Llama-3.1-8B-Instruct|Exclusion minimal pairs (normal codebook, normal doc)",0.691771269177127,paper
+F34,Llama-3.1-8B-Instruct|Baseline accuracy,0.5568409343715239,paper
+F34,Llama-3.1-8B-Instruct|Baseline F1,0.5661371362916547,paper
+F34,Llama-3.1-8B-Instruct|Generic label accuracy,0.4186874304783092,paper
+F34,Llama-3.1-8B-Instruct|Generic label F1,0.3673382034836301,paper
+F34,Llama-3.1-8B-Instruct|Swapped label accuracy,0.1408231368186874,paper
+F34,Llama-3.1-8B-Instruct|Swapped label F1,0.1520125175104716,paper
+F34,Mistral-7B-Instruct-v0.2|Definition recovery,1.0,paper
+F34,Mistral-7B-Instruct-v0.2|Classify positive in-context examples,0.9166666666666666,paper
+F34,Mistral-7B-Instruct-v0.2|Classify negative in-context examples,1.0,paper
+F34,Mistral-7B-Instruct-v0.2|Inter-coder agreement (Fleiss' Kappa) for permutation,0.5850077763436561,paper
+F34,Mistral-7B-Instruct-v0.2|Percent change in predictions (reverse),0.4355951056729699,paper
+F34,Mistral-7B-Instruct-v0.2|Percent change in predictions (shuffle),0.3530589543937708,paper
+F34,Mistral-7B-Instruct-v0.2|Legal predictions percent,0.9470522803114572,paper
+F34,Mistral-7B-Instruct-v0.2|Exclusion minimal pairs (all correct),0.0111576011157601,paper
+F34,"Mistral-7B-Instruct-v0.2|Exclusion minimal pairs (normal codebook, normal doc)",0.5669456066945606,paper
+F34,Mistral-7B-Instruct-v0.2|Baseline accuracy,0.4992213570634037,paper
+F34,Mistral-7B-Instruct-v0.2|Baseline F1,0.5359182554286257,paper
+F34,Mistral-7B-Instruct-v0.2|Generic label accuracy,0.421357063403782,paper
+F34,Mistral-7B-Instruct-v0.2|Generic label F1,0.3916362004378038,paper
+F34,Mistral-7B-Instruct-v0.2|Swapped label accuracy,0.0763070077864293,paper
+F34,Mistral-7B-Instruct-v0.2|Swapped label F1,0.0944267875784607,paper
+F34,Mistral-Nemo-Instruct-2407|Definition recovery,1.0,paper
+F34,Mistral-Nemo-Instruct-2407|Classify positive in-context examples,1.0,paper
+F34,Mistral-Nemo-Instruct-2407|Classify negative in-context examples,1.0,paper
+F34,Mistral-Nemo-Instruct-2407|Inter-coder agreement (Fleiss' Kappa) for permutation,0.668697621648888,paper
+F34,Mistral-Nemo-Instruct-2407|Percent change in predictions (reverse),0.3134593993325917,paper
+F34,Mistral-Nemo-Instruct-2407|Percent change in predictions (shuffle),0.3210233592880979,paper
+F34,Mistral-Nemo-Instruct-2407|Legal predictions percent,0.992436040044494,paper
+F34,Mistral-Nemo-Instruct-2407|Exclusion minimal pairs (all correct),0.0467224546722454,paper
+F34,"Mistral-Nemo-Instruct-2407|Exclusion minimal pairs (normal codebook, normal doc)",0.6227336122733612,paper
+F34,Mistral-Nemo-Instruct-2407|Baseline accuracy,0.4923248053392658,paper
+F34,Mistral-Nemo-Instruct-2407|Baseline F1,0.5389402916270591,paper
+F34,Mistral-Nemo-Instruct-2407|Generic label accuracy,0.5361512791991101,paper
+F34,Mistral-Nemo-Instruct-2407|Generic label F1,0.5719017387936804,paper
+F34,Mistral-Nemo-Instruct-2407|Swapped label accuracy,0.0649610678531701,paper
+F34,Mistral-Nemo-Instruct-2407|Swapped label F1,0.0847776161973244,paper
+F34,OLMo-7B-0724-Instruct-hf|Definition recovery,0.0833333333333333,paper
+F34,OLMo-7B-0724-Instruct-hf|Classify positive in-context examples,0.25,paper
+F34,OLMo-7B-0724-Instruct-hf|Classify negative in-context examples,0.9166666666666666,paper
+F34,OLMo-7B-0724-Instruct-hf|Inter-coder agreement (Fleiss' Kappa) for permutation,0.086793634569903,paper
+F34,OLMo-7B-0724-Instruct-hf|Percent change in predictions (reverse),0.5875417130144606,paper
+F34,OLMo-7B-0724-Instruct-hf|Percent change in predictions (shuffle),0.8638487208008899,paper
+F34,OLMo-7B-0724-Instruct-hf|Legal predictions percent,0.981979977753059,paper
+F34,OLMo-7B-0724-Instruct-hf|Exclusion minimal pairs (all correct),0.009065550906555,paper
+F34,"OLMo-7B-0724-Instruct-hf|Exclusion minimal pairs (normal codebook, normal doc)",0.9428172942817294,paper
+F34,OLMo-7B-0724-Instruct-hf|Baseline accuracy,0.3494994438264738,paper
+F34,OLMo-7B-0724-Instruct-hf|Baseline F1,0.3096172540611019,paper
+F34,OLMo-7B-0724-Instruct-hf|Generic label accuracy,0.2805339265850946,paper
+F34,OLMo-7B-0724-Instruct-hf|Generic label F1,0.2735810050478924,paper
+F34,OLMo-7B-0724-Instruct-hf|Swapped label accuracy,0.1810901001112347,paper
+F34,OLMo-7B-0724-Instruct-hf|Swapped label F1,0.1510507288072811,paper
+LEGAL,manifestos|new_format|llama|f1_dev_labels,0.1876990768014539,paper
+LEGAL,manifestos|new_format|llama|f1_codebook_labels,0.18609048957338195,paper
+LEGAL,manifestos|new_format|llama|n_pred_changed,131,paper
+LEGAL,manifestos|new_format|llama|agree_with_stored_parse,1.0,paper
+LEGAL,manifestos|original|llama|f1_dev_labels,0.20633864971961335,paper
+LEGAL,manifestos|original|llama|f1_codebook_labels,0.20618473843407836,paper
+LEGAL,manifestos|original|llama|n_pred_changed,122,paper
+LEGAL,manifestos|original|llama|agree_with_stored_parse,1.0,paper
+LEGAL,ccc|new_format|llama|f1_dev_labels,0.6085326520631811,paper
+LEGAL,ccc|new_format|llama|f1_codebook_labels,0.6008036087280084,paper
+LEGAL,ccc|new_format|llama|n_pred_changed,32,paper
+LEGAL,ccc|new_format|llama|agree_with_stored_parse,1.0,paper
+LEGAL,ccc|original|llama|f1_dev_labels,0.4836406452855152,paper
+LEGAL,ccc|original|llama|f1_codebook_labels,0.46572748559710203,paper
+LEGAL,ccc|original|llama|n_pred_changed,49,paper
+LEGAL,ccc|original|llama|agree_with_stored_parse,1.0,paper
+LEGAL,bfrs|new_format|llama|f1_dev_labels,0.5661371362916546,paper
+LEGAL,bfrs|new_format|llama|f1_codebook_labels,0.5661371362916546,paper
+LEGAL,bfrs|new_format|llama|n_pred_changed,0,paper
+LEGAL,bfrs|new_format|llama|agree_with_stored_parse,1.0,paper
+LEGAL,bfrs|original|llama|f1_dev_labels,0.5474609704651395,paper
+LEGAL,bfrs|original|llama|f1_codebook_labels,0.5474609704651395,paper
+LEGAL,bfrs|original|llama|n_pred_changed,0,paper
+LEGAL,bfrs|original|llama|agree_with_stored_parse,1.0,paper
+LEGAL,manifestos|new_format|mistral|f1_dev_labels,0.14875556785279792,paper
+LEGAL,manifestos|new_format|mistral|f1_codebook_labels,0.1468857510103285,paper
+LEGAL,manifestos|new_format|mistral|n_pred_changed,158,paper
+LEGAL,manifestos|new_format|mistral|agree_with_stored_parse,1.0,paper
+LEGAL,manifestos|original|mistral|f1_dev_labels,0.14108381145615773,paper
+LEGAL,manifestos|original|mistral|f1_codebook_labels,0.13453984243110245,paper
+LEGAL,manifestos|original|mistral|n_pred_changed,71,paper
+LEGAL,manifestos|original|mistral|agree_with_stored_parse,1.0,paper
+LEGAL,ccc|new_format|mistral|f1_dev_labels,0.6485372791255646,paper
+LEGAL,ccc|new_format|mistral|f1_codebook_labels,0.6382604700988478,paper
+LEGAL,ccc|new_format|mistral|n_pred_changed,28,paper
+LEGAL,ccc|new_format|mistral|agree_with_stored_parse,1.0,paper
+LEGAL,ccc|original|mistral|f1_dev_labels,0.5111803466416628,paper
+LEGAL,ccc|original|mistral|f1_codebook_labels,0.4977983262436337,paper
+LEGAL,ccc|original|mistral|n_pred_changed,31,paper
+LEGAL,ccc|original|mistral|agree_with_stored_parse,1.0,paper
+LEGAL,bfrs|new_format|mistral|f1_dev_labels,0.5332338644960428,paper
+LEGAL,bfrs|new_format|mistral|f1_codebook_labels,0.5332338644960428,paper
+LEGAL,bfrs|new_format|mistral|n_pred_changed,0,paper
+LEGAL,bfrs|new_format|mistral|agree_with_stored_parse,1.0,paper
+LEGAL,bfrs|original|mistral|f1_dev_labels,0.4358385986931203,paper
+LEGAL,bfrs|original|mistral|f1_codebook_labels,0.4358385986931203,paper
+LEGAL,bfrs|original|mistral|n_pred_changed,0,paper
+LEGAL,bfrs|original|mistral|agree_with_stored_parse,1.0,paper

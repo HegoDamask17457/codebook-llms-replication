@@ -1,0 +1,5 @@
+cell,dataset,codebook,batch_size,padding_side,n,parsed_agree,raw_agree,parsed_agree_pct,raw_agree_pct,raw_identical_to_bs1,parsed_disagree_rows,transformers,seconds_per_item,max_memory_allocated_gb
+l_bfrs_new_k40,bfrs,ours,2,left,40,40,40,100.0,100.0,40,,4.45.2,3.21,7.21
+l_bfrs_orig_k40,bfrs,original,2,left,40,40,39,100.0,97.5,40,,4.45.2,1.27,6.58
+l_ccc_new_k40,ccc,ours,2,left,40,40,39,100.0,97.5,40,,4.45.2,1.46,7.06
+l_ccc_orig_k40,ccc,original,2,left,40,39,39,97.5,97.5,40,32,4.45.2,1.22,6.91

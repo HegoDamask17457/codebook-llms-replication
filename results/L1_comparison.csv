@@ -1,0 +1,114 @@
+table,cell,paper,author_script,note,independent,basis,status,author_equals_paper
+T1,bfrs|n_classes,12.0,12.0,,12,paper,reproduced,True
+T1,ccc|n_classes,8.0,8.0,,8,paper,reproduced,True
+T1,manifestos|n_classes,142.0,142.0,,142,paper,reproduced,True
+T1,bfrs|def_median_ws_toks,20.0,20.0,,19.5,paper,reproduced,True
+T1,ccc|def_median_ws_toks,28.0,28.0,,28.5,paper,reproduced,True
+T1,manifestos|def_median_ws_toks,14.0,14.0,,14.0,paper,reproduced,True
+T1,bfrs|codebook_ws_toks,1614.0,1614.0,,1614,code,reproduced,True
+T1,ccc|codebook_ws_toks,608.0,608.0,,608,code,reproduced,True
+T1,manifestos|codebook_ws_toks,3910.0,3910.0,,3910,code,reproduced,True
+T1,bfrs|codebook_llama_toks,2083.0,2083.0,,2083,code,reproduced,True
+T1,ccc|codebook_llama_toks,721.0,721.0,,721,code,reproduced,True
+T1,manifestos|codebook_llama_toks,5145.0,5145.0,,5145,code,reproduced,True
+T1,bfrs|median_doc_ws_toks,28.0,28.0,,28.0,paper,reproduced,True
+T1,ccc|median_doc_ws_toks,437.0,437.0,,437.0,paper,reproduced,True
+T1,manifestos|median_doc_ws_toks,16.0,16.0,,16,paper,reproduced,True
+T1,bfrs|n_train,20978.0,20978.0,,20978,paper,reproduced,True
+T1,ccc|n_train,4710.0,4710.0,,4710,paper,reproduced,True
+T1,manifestos|n_train,8081.0,8081.0,,8081,paper,reproduced,True
+T1,bfrs|n_dev,4495.0,4495.0,,4495,paper,reproduced,True
+T1,ccc|n_dev,1009.0,1009.0,,1009,paper,reproduced,True
+T1,manifestos|n_dev,1732.0,1732.0,,1732,paper,reproduced,True
+T1,bfrs|n_test,4496.0,4496.0,,4496,paper,reproduced,True
+T1,ccc|n_test,1010.0,1010.0,,1010,paper,reproduced,True
+T1,manifestos|n_test,1732.0,1732.0,,1732,paper,reproduced,True
+T3,bfrs|new_format|llama|f1,0.57,0.57,,0.5661371362916546,paper,reproduced,True
+T3,bfrs|new_format|llama|ci_lo,0.55,0.55,,0.5506504784591985,paper,reproduced,True
+T3,bfrs|new_format|llama|ci_hi,0.58,0.58,,0.5808597287389535,paper,reproduced,True
+T3,bfrs|new_format|mistral|f1,0.53,0.53,,0.5332338644960428,paper,reproduced,True
+T3,bfrs|new_format|mistral|ci_lo,0.52,0.52,,0.5181447870778111,paper,reproduced,True
+T3,bfrs|new_format|mistral|ci_hi,0.55,0.55,,0.5473507398892673,paper,reproduced,True
+T3,bfrs|original|llama|f1,0.55,0.55,,0.5474609704651395,paper,reproduced,True
+T3,bfrs|original|llama|ci_lo,0.53,0.53,,0.532372705070693,paper,reproduced,True
+T3,bfrs|original|llama|ci_hi,0.56,0.56,,0.5611944173641549,paper,reproduced,True
+T3,bfrs|original|mistral|f1,0.44,0.44,,0.4358385986931203,paper,reproduced,True
+T3,bfrs|original|mistral|ci_lo,0.42,0.42,,0.4208839613244733,paper,reproduced,True
+T3,bfrs|original|mistral|ci_hi,0.45,0.45,,0.45032193804403564,paper,reproduced,True
+T3,ccc|new_format|llama|f1,0.61,0.61,,0.6085326520631811,paper,reproduced,True
+T3,ccc|new_format|llama|ci_lo,0.58,0.58,,0.5791443407347484,paper,reproduced,True
+T3,ccc|new_format|llama|ci_hi,0.64,0.64,,0.6380962492336866,paper,reproduced,True
+T3,ccc|new_format|mistral|f1,0.65,0.65,,0.6485372791255646,paper,reproduced,True
+T3,ccc|new_format|mistral|ci_lo,0.62,0.62,,0.6172281013717008,paper,reproduced,True
+T3,ccc|new_format|mistral|ci_hi,0.68,0.68,,0.6797626535529669,paper,reproduced,True
+T3,ccc|original|llama|f1,0.48,0.48,,0.4836406452855152,paper,reproduced,True
+T3,ccc|original|llama|ci_lo,0.45,0.45,,0.4522719020496988,paper,reproduced,True
+T3,ccc|original|llama|ci_hi,0.52,0.52,,0.517086642977658,paper,reproduced,True
+T3,ccc|original|mistral|f1,0.51,0.51,,0.5111803466416628,paper,reproduced,True
+T3,ccc|original|mistral|ci_lo,0.48,0.48,,0.4801612057017974,paper,reproduced,True
+T3,ccc|original|mistral|ci_hi,0.54,0.54,,0.5410689790376061,paper,reproduced,True
+T3,manifestos|new_format|llama|f1,0.19,0.19,,0.1876990768014539,code,reproduced,True
+T3,manifestos|new_format|llama|ci_lo,0.17,0.17,,0.1685053589088011,code,reproduced,True
+T3,manifestos|new_format|llama|ci_hi,0.21,0.21,,0.20910934678575505,code,reproduced,True
+T3,manifestos|new_format|mistral|f1,0.15,0.15,,0.14875556785279792,code,reproduced,True
+T3,manifestos|new_format|mistral|ci_lo,0.13,0.13,,0.13226935447626534,code,reproduced,True
+T3,manifestos|new_format|mistral|ci_hi,0.17,0.17,,0.1650871942570845,code,reproduced,True
+T3,manifestos|original|llama|f1,0.21,0.21,,0.20633864971961335,code,reproduced,True
+T3,manifestos|original|llama|ci_lo,0.19,0.19,,0.18519364119602122,code,reproduced,True
+T3,manifestos|original|llama|ci_hi,0.23,0.23,,0.22564952987767523,code,reproduced,True
+T3,manifestos|original|mistral|f1,0.14,0.14,,0.14108381145615773,code,reproduced,True
+T3,manifestos|original|mistral|ci_lo,0.12,0.12,,0.12283305647730101,code,reproduced,True
+T3,manifestos|original|mistral|ci_hi,0.16,0.16,,0.15794188041780824,code,reproduced,True
+T4,excluded=Output Reminder|f1,0.42,0.42,,0.42261088577652717,paper,reproduced,True
+T4,excluded=Negative Example+Positive Example|f1,0.46,0.46,,0.45811033604921614,paper,reproduced,True
+T4,excluded=Clarification+Negative Clarification+Negative Example+Positive Example|f1,0.43,0.43,,0.433522164264171,paper,reproduced,True
+T4,excluded=Clarification+Negative Clarification+Negative Example+Output Reminder+Positive Example|f1,0.2,0.2,,0.20248036999110328,paper,reproduced,True
+T4,excluded=Clarification+Definition+Negative Clarification+Negative Example+Output Reminder+Positive Example|f1,0.29,0.29,,0.2947272444323622,paper,reproduced,True
+T5,bfrs|n,24.0,24.0,,24,paper,reproduced,True
+T5,ccc|n,50.0,50.0,,50,paper,reproduced,True
+T5,manifestos|n,62.0,62.0,,62,paper,reproduced,True
+T5,bfrs|n_unique_classes,12.0,12.0,,12,paper,reproduced,True
+T5,ccc|n_unique_classes,5.0,5.0,,5,paper,reproduced,True
+T5,manifestos|n_unique_classes,50.0,50.0,,50,paper,reproduced,True
+T5,bfrs|0-LLM Correct,0.38,0.38,paper row A,0.375,code,reproduced,True
+T5,ccc|0-LLM Correct,0.48,0.48,paper row A,0.48,code,reproduced,True
+T5,manifestos|0-LLM Correct,0.11,0.11,paper row A,0.11290322580645161,code,reproduced,True
+T5,bfrs|1-Gold standard wrong,0.04,0.04,paper row B,0.041666666666666664,code,reproduced,True
+T5,ccc|1-Gold standard wrong,0.1,0.1,paper row B,0.1,code,reproduced,True
+T5,manifestos|1-Gold standard wrong,0.08,0.08,paper row B,0.08064516129032258,code,reproduced,True
+T5,bfrs|2-Doc lacking context,0.04,0.04,paper row C,0.041666666666666664,code,reproduced,True
+T5,ccc|2-Doc lacking context,0.02,0.02,paper row C,0.02,code,reproduced,True
+T5,manifestos|2-Doc lacking context,0.03,0.03,paper row C,0.03225806451612903,code,reproduced,True
+T5,bfrs|4-Non-compliance,0.0,0.0,paper row D,0.0,code,reproduced,True
+T5,ccc|4-Non-compliance,0.02,0.02,paper row D,0.02,code,reproduced,True
+T5,manifestos|4-Non-compliance,0.45,0.45,paper row D,0.45161290322580644,code,reproduced,True
+T5,bfrs|3-LLM mistake (word knowledge/semantics/reasoning),0.5,0.5,paper row E,0.5,code,reproduced,True
+T5,ccc|3-LLM mistake (word knowledge/semantics/reasoning),0.26,0.26,paper row E,0.26,code,reproduced,True
+T5,manifestos|3-LLM mistake (word knowledge/semantics/reasoning),0.29,0.31,paper row E,0.3064516129032258,code,not reproduced,False
+T5,bfrs|5-Other,0.04,0.04,paper row F,0.041666666666666664,code,reproduced,True
+T5,ccc|5-Other,0.1,0.1,paper row F,0.1,code,reproduced,True
+T5,manifestos|5-Other,0.02,0.0,paper row F,0.0,code,not reproduced,False
+T6,bfrs|majority_baseline_f1,0.16,0.16,,0.15615346825311238,code,reproduced,True
+T6,ccc|majority_baseline_f1,0.51,0.51,,0.5102429161835103,code,reproduced,True
+T6,manifestos|majority_baseline_f1,0.03,0.03,,0.02670922304926186,code,reproduced,True
+T6,bfrs|llama|f1,0.81,0.81,,0.8108714531775719,paper,reproduced,True
+T6,bfrs|llama|ci_lo,0.8,0.8,,0.7989949927586649,paper,reproduced,True
+T6,bfrs|llama|ci_hi,0.82,0.82,,0.8226308557346965,paper,reproduced,True
+T6,bfrs|llama|delta_zero_shot,0.24,0.24,,0.2447343168859173,paper,reproduced,True
+T6,bfrs|mistral|f1,0.82,0.82,,0.8208338038114764,paper,reproduced,True
+T6,bfrs|mistral|ci_lo,0.81,0.81,,0.8083153315912551,paper,reproduced,True
+T6,bfrs|mistral|ci_hi,0.83,0.83,,0.8326777069498859,paper,reproduced,True
+T6,bfrs|mistral|delta_zero_shot,0.29,0.29,,0.2875999393154336,paper,reproduced,True
+T6,ccc|llama|f1,0.68,0.68,,0.6772070608364855,paper,reproduced,True
+T6,ccc|llama|ci_lo,0.64,0.64,,0.6418169261074959,paper,reproduced,True
+T6,ccc|llama|ci_hi,0.7,0.7,,0.7101266978643387,paper,not reproduced,True
+T6,ccc|llama|delta_zero_shot,0.07,0.07,,0.06867440877330444,paper,reproduced,True
+T6,ccc|mistral|f1,0.72,0.72,,0.7236157169595909,paper,reproduced,True
+T6,ccc|mistral|ci_lo,0.69,0.69,,0.6914787088735573,paper,reproduced,True
+T6,ccc|mistral|ci_hi,0.75,0.75,,0.7517185282504028,paper,reproduced,True
+T6,ccc|mistral|delta_zero_shot,0.07,0.08,,0.07507843783402635,paper,not reproduced,False
+T6,manifestos|mistral|f1,0.38,0.38,,0.3767715498569518,code,reproduced,True
+T6,manifestos|mistral|ci_lo,0.35,0.35,,0.35128912225114084,code,reproduced,True
+T6,manifestos|mistral|ci_hi,0.4,0.4,,0.4013565274349124,code,reproduced,True
+T6,manifestos|mistral|delta_zero_shot,0.23,0.23,,0.2280159820041539,code,reproduced,True
+T4,excluded=none|f1,0.53,0.53,printed from Table 3,0.5332338644960428,paper,reproduced,True

@@ -1,0 +1,9 @@
+run,items,n,parsed_agree,raw_agree
+l_bfrs_new_k40,unpadded,10,10,10
+l_bfrs_new_k40,right-padded,30,27,0
+l_bfrs_orig_k40,unpadded,10,10,9
+l_bfrs_orig_k40,right-padded,30,19,1
+l_ccc_new_k40,unpadded,10,10,10
+l_ccc_new_k40,right-padded,30,23,15
+l_ccc_orig_k40,unpadded,10,9,9
+l_ccc_orig_k40,right-padded,30,29,28

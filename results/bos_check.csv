@@ -1,0 +1,9 @@
+run,model,n_prompts,prompts_starting_with_bos_text,leading_bos_as_called,leading_bos_without_special
+m_bfrs_new_k400,Mistral-7B-Instruct-v0.2,400,400,[2],[1]
+m_ccc_new_k200,Mistral-7B-Instruct-v0.2,200,200,[2],[1]
+m_bfrs_orig_k200,Mistral-7B-Instruct-v0.2,200,200,[2],[1]
+m_ccc_orig_k200,Mistral-7B-Instruct-v0.2,200,200,[2],[1]
+l_bfrs_new_k40,Llama-3.1-8B-Instruct,40,40,[2],[1]
+l_ccc_new_k40,Llama-3.1-8B-Instruct,40,40,[2],[1]
+l_bfrs_orig_k40,Llama-3.1-8B-Instruct,40,40,[2],[1]
+l_ccc_orig_k40,Llama-3.1-8B-Instruct,40,40,[2],[1]

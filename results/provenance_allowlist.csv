@@ -1,0 +1,23 @@
+file,number,reason,context
+README.md,188,bibliographic page range,(2026): 188
+README.md,"204,",bibliographic page range,"188–204,"
+README.md,10.1017,DOI prefix,doi:10.1017
+README.md,10.7910,DOI prefix,doi:10.7910
+FINDINGS.md,0.005,tolerance of the comparison gate (a definition in PREREGISTRATION/plan; not a result),±0.005
+FINDINGS.md,80,source line number in run_zero_shot.py,line 80
+FINDINGS.md,57,source line number in run_zero_shot.py,line 57
+FINDINGS.md,74,source line number in eval_fine_tuned.py,line 74
+FINDINGS.md,250,source line range 244–250 in generate_compliance_report.Rmd,lines 244–250
+FINDINGS.md,42,the authors' random seed (np.random.seed(42)),seed 42
+FINDINGS.md,0.001,difference 0.4012 - 0.40 (kappa in L2_behavioral_llama_bfrs_limit12.csv minus the preregistered bound),by 0.001
+FINDINGS.md,"199,",row index (dev rows 0-199),0–199
+FINDINGS.md,8.3,"1/12 of the sample, in points",by 8.3 points
+FINDINGS.md,199,row index (dev rows 0-199),0–199
+FINDINGS.md,39,row index (dev rows 0-39),0–39
+FINDINGS.md,"39,",row index (dev rows 0-39),0–39
+README.md,3.11,Python version,Python 3.11
+README.md,117,archive size in MB (du -sh),117 MB
+README.md,10.8,wall time in hours from logs/queue.log: 6.91 + 1.46 + 2.09 + 0.35,about 10.8 hours
+FINDINGS.md,576,source line number in codebook_utils.py,line 576
+FINDINGS.md,42,source line numbers in eval_fine_tuned.py,lines 42–43
+FINDINGS.md,"43,",source line numbers in eval_fine_tuned.py,lines 42–43

@@ -1,0 +1,3 @@
+bfrs: matched 24/24; identical under chat template (Table 3 code) 0; under make_prompt_mistral_llama2 24
+ccc: matched 50/50; identical under chat template (Table 3 code) 0; under make_prompt_mistral_llama2 50
+manifestos: matched 62/62; identical under chat template (Table 3 code) 0; under make_prompt_mistral_llama2 0

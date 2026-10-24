@@ -1,0 +1,3 @@
+bfrs: matched 24; parsed agree 21; no legal label: hand-sample run 0, Table 3 run 3; hand-coded non-compliance 0; median raw length (chars): hand-sample run 637, Table 3 run 40 (max 116)
+ccc: matched 50; parsed agree 46; no legal label: hand-sample run 1, Table 3 run 1; hand-coded non-compliance 1; median raw length (chars): hand-sample run 666, Table 3 run 14 (max 104)
+manifestos: matched 62; parsed agree 38; no legal label: hand-sample run 22, Table 3 run 22; hand-coded non-compliance 28; median raw length (chars): hand-sample run 650, Table 3 run 32 (max 120)

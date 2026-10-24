@@ -1,0 +1,6 @@
+Llama-3.1-8B-Instruct,bfrs,messages=2546,full_prompt=2581
+Llama-3.1-8B-Instruct,ccc,messages=947,full_prompt=982
+Llama-3.1-8B-Instruct,manifestos,messages=9068,full_prompt=9103
+Mistral-7B-Instruct-v0.2,bfrs,messages=2962,full_prompt=2972
+Mistral-7B-Instruct-v0.2,ccc,messages=1090,full_prompt=1100
+Mistral-7B-Instruct-v0.2,manifestos,messages=11265,full_prompt=11275

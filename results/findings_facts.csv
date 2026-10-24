@@ -1,0 +1,37 @@
+fact,value
+manifestos_train_n,8081.0
+manifestos_train_gold_NA,2326.0
+manifestos_dev_n,1732.0
+manifestos_dev_gold_NA,485.0
+manifestos_test_n,1732.0
+manifestos_test_gold_NA,515.0
+manifestos_train_top_codebook_label_count(WELFARE_POSITIVE),639.0
+ft_mistral_manifestos_raw_nan_among_gold_NA,469.0
+ccc_zero_shot_accuracy_llama_new_format,0.574826560951437
+ccc_dev_majority_share_PROTEST,0.643211100099108
+ccc_zero_shot_accuracy_llama_original,0.4390485629335976
+ccc_dev_majority_share_PROTEST,0.643211100099108
+ccc_zero_shot_accuracy_mistral_new_format,0.6273538156590683
+ccc_dev_majority_share_PROTEST,0.643211100099108
+ccc_zero_shot_accuracy_mistral_original,0.4122893954410307
+ccc_dev_majority_share_PROTEST,0.643211100099108
+ccc_ablation_accuracy_Output Reminder,0.6342913776015857
+ccc_ablation_accuracy_Negative Example+Positive Example,0.6362735381565907
+ccc_ablation_accuracy_Clarification+Negative Clarification+Negative Example+Positive Example,0.6580773042616452
+ccc_ablation_accuracy_Clarification+Negative Clarification+Negative Example+Output Reminder+Positive Example,0.6600594648166501
+ccc_ablation_accuracy_Clarification+Definition+Negative Clarification+Negative Example+Output Reminder+Positive Example,0.6372646184340932
+bfrs_codebook_labels,12.0
+bfrs_dev_distinct_labels,12.0
+ccc_codebook_labels,8.0
+ccc_dev_distinct_labels,5.0
+manifestos_codebook_labels,142.0
+manifestos_dev_distinct_labels,51.0
+legal_label_reparse_min_f1_change,-0.01791315968841317
+full_precision_max_abs_diff,1.1102230246251565e-16
+L1_cells,113.0
+L1_reproduced,109.0
+L1_reproduced_paper_basis,68.0
+L1_reproduced_code_basis,41.0
+L1_not_reproduced,4.0
+table5_manifestos_paper_implied_E_count(0.29*62),18.0
+table5_manifestos_paper_implied_F_count(0.02*62),1.0

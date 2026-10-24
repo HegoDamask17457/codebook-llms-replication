@@ -1,0 +1,11 @@
+dataset,dev_row,parsed_20,parsed_200,match_char,first_line_200,match_context,gold,why_manual
+bfrs,13,NA,ASSASSINATION,100.0,"Based on the given news story, it is not clear whether the man was killed as a r",an was killed as a result of a targeted assassination or if it was an ,ASSASSINATION,legal answer ('OTHER') comes after the 20-token cap; parser takes ASSASSINATION from the hedge before it
+bfrs,17,NA,ATTACK_ON_STATE,268.0,Label: ATTACK_ON_INFRASTRUCTURE," be considered as a subcategory of the ""ATTACK_ON_STATE"" or ""CONVENTIO",TERRORISM,invented label; legal label mentioned later in explanation
+bfrs,35,NA,NA,,Label: ATTACK_ON_NONSTATE_COMBATANTS,,GOV_ATTACK_ON_NONSTATE_COMBATANTS,invented label; still none at 200
+bfrs,59,NA,OTHER,260.0,Label: CONFLICT_BETWEEN_TRIBES,"te actors, and thus it falls under the ""other"" category with the label",RIOT,invented label; explanation says it falls under 'other'
+bfrs,74,NA,OTHER,48.0,"Label: ATTACK_ON_NONSTATE_COMBATANTS (or Label: OTHER, if it is unclear if the A","TTACK_ON_NONSTATE_COMBATANTS (or Label: OTHER, if it is unclear if the",TERRORISM,invented label first; legal alternative ('or Label: OTHER') cut off by the cap
+bfrs,75,NA,ASSASSINATION,205.0,Label: CONFLICT_OVER_LAND,"n-state groups, nor does it mention any assassinations or terrorist at",RIOT,invented label; match is a negation ('nor does it mention any assassinations')
+bfrs,76,NA,ASSASSINATION,112.0,Label: CONTROVERSIAL_SHOOTING,"oting, but it is not clear if it was an assassination attempt or a vio",GOV_ATTACK_ON_NONSTATE_COMBATANTS,invented label; match is a hedge ('not clear if it was an assassination')
+bfrs,80,NA,OTHER,512.0,Label: CONVENTIONAL_ATTACK_ON_NONSTATE_COMBATANTS,ctors engaging in violence against each other.,OTHER,invented label; match is an unrelated word ('each other')
+bfrs,83,NA,GOV_ATTACK_ON_NONSTATE_COMBATANTS,56.0,Label: MILITARY/PARAMILITARY/POLICE SELECTIVE VIOLENCE (GOV_ATTACK_ON_NONSTATE_C,PARAMILITARY/POLICE SELECTIVE VIOLENCE (GOV_ATTACK_ON_NONSTATE_COMBATA,ASSASSINATION,legal label cut off by the 20-token cap
+ccc,94,NA,PROTEST,98.0,Label: N/A (This story does not fit into any of the provided categories as it do,"ed categories as it does not describe a protest, rally, demonstration,",PROTEST,answers N/A; match is a negation ('does not describe a protest')

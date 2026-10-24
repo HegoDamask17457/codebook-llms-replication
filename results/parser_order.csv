@@ -1,0 +1,18 @@
+what,value,detail
+prefix_pairs|bfrs|codebook,0.0,
+prefix_pairs|bfrs|dev,0.0,
+prefix_pairs|ccc|codebook,0.0,
+prefix_pairs|ccc|dev,0.0,
+prefix_pairs|manifestos|codebook,6.0,DEMOCRACY < DEMOCRACY:_GENERAL_POSITIVE; DEMOCRACY < DEMOCRACY:_GENERAL_NEGATIVE; POLITICAL_AUTHORITY < POLITICAL_AUTHORITY_PARTY_COMPETENCE; POLITICAL_AUTHORITY < POLITICAL_AUTHORITY_PERSONAL_COMPETENCE; POLITICAL_AUTHORITY < POLITICAL_AUTHORITY_STRONG_GOVERNMENT; FREEDOM < FREEDOM_AND_HUMAN_RIGHTS
+prefix_pairs|manifestos|dev,0.0,
+ft_manifestos|f1_stored,0.3767715498569519,
+ft_manifestos|f1_shortest_first,0.3767715498569519,
+ft_manifestos|f1_longest_first,0.3919570982767057,
+ft_manifestos|stored_equals_shortest_first,1.0,
+ft_manifestos|answers_containing_FREEDOM_AND_HUMAN_RIGHTS,33.0,
+ft_manifestos|of_those_stored_as_FREEDOM,33.0,
+ft_manifestos|of_those_gold_FREEDOM_AND_HUMAN_RIGHTS,24.0,
+ft_manifestos|f1_NA_may_match_shortest_first,0.6155548796910899,
+ft_manifestos|f1_NA_may_match_longest_first,0.6307404281108439,
+manifestos_codebook_label_entries,142.0,
+manifestos_codebook_distinct_labels,140.0,

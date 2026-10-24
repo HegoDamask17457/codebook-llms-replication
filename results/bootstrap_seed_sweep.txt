@@ -1,0 +1,2 @@
+nearest_rank: mean 0.7089 sd 0.0021 min 0.7045 max 0.7143 share<=0.7049 0.015
+linear: mean 0.7087 sd 0.0020 min 0.7041 max 0.7139 share<=0.7049 0.025

@@ -1,0 +1,16 @@
+metric,value,test,model_type,quantization,dataset,fleiss_kappa_interpretation,limit
+accuracy,1.0,Definition recovery,meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,
+accuracy,1.0,Classify positive in-context examples,meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,
+accuracy,0.8333333333333334,Classify negative in-context examples,meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,
+fleiss_kappa,0.4012474012474011,Inter-coder agreement (Fleiss' Kappa) for permutation,meta-llama/Llama-3.1-8B-Instruct,4,bfrs,Fair agreement,12.0
+percent_change_reverse,0.5833333333333334,Percent change in predictions (reverse),meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,12.0
+percent_change_shuffle,0.25,Percent change in predictions (shuffle),meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,12.0
+accuracy,0.6666666666666666,Legal predictions percent,meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,12.0
+accuracy,0.0,Exclusion minimal pairs (all correct),meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,12.0
+accuracy,0.6666666666666666,"Exclusion minimal pairs (normal codebook, normal doc)",meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,12.0
+accuracy,0.3333333333333333,Baseline accuracy,meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,12.0
+f1,0.32023809523809527,Baseline F1,meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,12.0
+accuracy,0.5,Generic label accuracy,meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,12.0
+f1,0.4531746031746031,Generic label F1,meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,12.0
+accuracy,0.3333333333333333,Swapped label accuracy,meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,12.0
+f1,0.26111111111111107,Swapped label F1,meta-llama/Llama-3.1-8B-Instruct,4,bfrs,,12.0

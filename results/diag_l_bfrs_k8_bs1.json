@@ -1,0 +1,88 @@
+{
+ "precision": 1.0,
+ "recall": 0.625,
+ "f1": 0.75,
+ "eval_n_per_class": null,
+ "eval_n_total": 8,
+ "model_type": "Llama-3.1-8B-Instruct",
+ "codebook_type": "new_format",
+ "dataset": "bfrs",
+ "constrained_generation": 1.0,
+ "excluded_sections": [],
+ "raw_answers": [
+  "Label: OTHER",
+  "Label: OTHER",
+  "Label: ASSASSINATION",
+  "Label: TERRORISM",
+  "Label: OTHER",
+  "Label: ASSASSINATION",
+  "Label: VIOLENT_POLITICAL_DEMONSTRATION",
+  "Label: THREAT_OF_VIOLENCE"
+ ],
+ "parsed_answers": [
+  "NA",
+  "NA",
+  "ASSASSINATION",
+  "TERRORISM",
+  "NA",
+  "ASSASSINATION",
+  "VIOLENT_POLITICAL_DEMONSTRATION",
+  "THREAT_OF_VIOLENCE"
+ ],
+ "true_labels": [
+  "ASSASSINATION",
+  "ASSASSINATION",
+  "ASSASSINATION",
+  "TERRORISM",
+  "TERRORISM",
+  "ASSASSINATION",
+  "VIOLENT_POLITICAL_DEMONSTRATION",
+  "THREAT_OF_VIOLENCE"
+ ],
+ "task_order": "codebook_first",
+ "true_distribution": {
+  "ASSASSINATION": 4,
+  "TERRORISM": 2,
+  "VIOLENT_POLITICAL_DEMONSTRATION": 1,
+  "THREAT_OF_VIOLENCE": 1
+ },
+ "pred_distribution": {
+  "NA": 3,
+  "ASSASSINATION": 2,
+  "TERRORISM": 1,
+  "VIOLENT_POLITICAL_DEMONSTRATION": 1,
+  "THREAT_OF_VIOLENCE": 1
+ },
+ "dataset_split_used": "dev",
+ "parsed_answers_full_labels": [
+  "OTHER",
+  "OTHER",
+  "ASSASSINATION",
+  "TERRORISM",
+  "OTHER",
+  "ASSASSINATION",
+  "VIOLENT_POLITICAL_DEMONSTRATION",
+  "THREAT_OF_VIOLENCE"
+ ],
+ "dev_rows": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "max_new_tokens": 20,
+ "batch_size_override": 1,
+ "mode": "slice",
+ "k": 8,
+ "per_class": 0,
+ "load_seconds": 19.15530800819397,
+ "run_seconds": 17.048749446868896,
+ "seconds_per_item": 2.131093680858612,
+ "max_memory_allocated_gb": 6.521681785583496,
+ "attn_implementation": "sdpa",
+ "note": "BFRS documents, contexts and prompts removed (BFRS data are not public); full file in runs/ locally."
+}

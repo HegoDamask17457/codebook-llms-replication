@@ -1,0 +1,16 @@
+metric,value,test,model_type,quantization,dataset,fleiss_kappa_interpretation,limit
+accuracy,1.0,Definition recovery,mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,
+accuracy,0.9166666666666666,Classify positive in-context examples,mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,
+accuracy,1.0,Classify negative in-context examples,mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,
+fleiss_kappa,0.5198188584962133,Inter-coder agreement (Fleiss' Kappa) for permutation,mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,Moderate agreement,100.0
+percent_change_reverse,0.5,Percent change in predictions (reverse),mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,100.0
+percent_change_shuffle,0.38,Percent change in predictions (shuffle),mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,100.0
+accuracy,0.94,Legal predictions percent,mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,100.0
+accuracy,0.02,Exclusion minimal pairs (all correct),mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,100.0
+accuracy,0.61,"Exclusion minimal pairs (normal codebook, normal doc)",mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,100.0
+accuracy,0.49,Baseline accuracy,mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,100.0
+f1,0.5412813852813853,Baseline F1,mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,100.0
+accuracy,0.45,Generic label accuracy,mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,100.0
+f1,0.49364747571269313,Generic label F1,mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,100.0
+accuracy,0.06,Swapped label accuracy,mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,100.0
+f1,0.06877470355731224,Swapped label F1,mistralai/Mistral-7B-Instruct-v0.2,4,bfrs,,100.0

@@ -1,0 +1,5 @@
+model,autocast,n,prefix_tokens,prompt_tokens_min,prompt_tokens_max,leading_bos,parsed_agree,raw_agree,parsed_agree_pct,raw_agree_pct,prefill_seconds,seconds_per_item,max_memory_allocated_gb,transformers
+Llama-3.1-8B-Instruct,True,200,9059,9149,9674,2,195,192,97.5,96.0,15.5,1.17,7.15,4.45.2
+Llama-3.1-8B-Instruct,False,200,9059,9149,9674,2,192,185,96.0,92.5,7.1,1.94,7.06,4.45.2
+Mistral-7B-Instruct-v0.2,True,200,11221,11332,11920,2,197,196,98.5,98.0,10.7,1.84,5.96,4.45.2
+Mistral-7B-Instruct-v0.2,False,200,11221,11332,11920,2,199,196,99.5,98.0,9.5,1.64,5.9,4.45.2

@@ -1,0 +1,14 @@
+Documentation and results in this repository (all Markdown files, and every
+file under results/) are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Copyright (c) 2026 Zichen Fang
+
+Many files under results/ are computed from the authors' replication archive
+(Halterman and Keith, Harvard Dataverse doi:10.7910/DVN/NUWHQP, CC BY 4.0):
+recomputed tables and metrics, and comparisons of this replication's own
+model outputs with the authors' outputs. None reproduces the archive's data
+files. Others (environment listings, hashes, tokenizer checks) are this
+replication's own.
+The code in scripts/ is licensed separately under the MIT License (see LICENSE).
